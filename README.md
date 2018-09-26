@@ -1,0 +1,2 @@
+# vnews
+A news agregator
